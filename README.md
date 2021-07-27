@@ -32,3 +32,6 @@ For the 15 high schools in the district when assessing the average scores and pa
 ![Bottom Five Performing Schools](Images/IMG09_BottomFiveSchools.png)
 
 The ranking of the top five high schools was impacted by the score replacements when assessing school summaries and performing schools, we see that Thomas High School was ranked second in the top five performing with a 91% overall passing. Yet, after the score replacements its overall passing became 65% which got it removed out of top five. On the bright side, Thomas High School did not go down to the bottom five schools (those remained the same). With the revised school summary, Thomas High School ranks 8th among the 15 high schools in the district.
+
+### Average Math Scores by Grade & School
+![Average Math Scores by Grade & School](Images/IMG06_AvgMathScores_byGrade-School.png)

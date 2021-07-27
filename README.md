@@ -43,3 +43,5 @@ For this data replacement the math and reading scores did not change which is so
 
 ### School Spending Summary
 ![School Spending Summary](Images/IMG03_SchoolSpendingSummaryDF.png)
+
+For the spending summary, the spending ranges for the average math and reading scores were unchanged with the data change. However, with the data change, the passing percentages spending range was changed. As shown in the table, there is a decline of 6% in the percentage passing math, a 7% in the percentage passing reading, and a decline by 6% in the overall passing in the $630-644 spending range.

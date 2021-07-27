@@ -1,6 +1,8 @@
 # Py City School District Analysis
 
 ## Overview
+Performing an analysis using school and student data to inform a school district on their budget and priorities.
+
 ### Purpose
 To interpret the Py City School district student data.
 

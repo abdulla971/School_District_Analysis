@@ -35,3 +35,6 @@ The ranking of the top five high schools was impacted by the score replacements 
 
 ### Average Math Scores by Grade & School
 ![Average Math Scores by Grade & School](Images/IMG06_AvgMathScores_byGrade-School.png)
+
+### Average Reading Scores by Grade & School
+![Average Reading Scores by Grade & School](Images/IMG07_AvgReadingScores_byGrade-School.png)

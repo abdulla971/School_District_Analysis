@@ -50,3 +50,6 @@ For the spending summary, the spending ranges for the average math and reading s
 
 ### School Size Summary
 ![School Size Summary](Images/IMG04_SchoolSizeSummaryDF.png)
+
+### School Type Summary
+![School Type Summary](Images/IMG05_SchoolTypeSummaryDF.png)

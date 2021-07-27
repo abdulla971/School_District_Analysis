@@ -31,6 +31,8 @@ For the 15 high schools in the district when assessing the average scores and pa
 ### Bottom Five Performing Schools
 ![Bottom Five Performing Schools](Images/IMG09_BottomFiveSchools.png)
 
+For the school size summary, taking out the 9th grade scores did not impact the average math and reading scores, however it impacted the passing percentages especially for the medium-sized schools (1,000-2,000). Where the % passing math, % passing reading, and % overall passing dropped 6% each. The performance for the medium-sized schools was perceived to be high before the change with 91% overall passing, after the change it became 85% which lowered its rank from first to second.
+
 The ranking of the top five high schools was impacted by the score replacements when assessing school summaries and performing schools, we see that Thomas High School was ranked second in the top five performing with a 91% overall passing. Yet, after the score replacements its overall passing became 65% which got it removed out of top five. On the bright side, Thomas High School did not go down to the bottom five schools (those remained the same). With the revised school summary, Thomas High School ranks 8th among the 15 high schools in the district.
 
 ### Average Math Scores by Grade & School

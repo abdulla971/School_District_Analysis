@@ -53,3 +53,5 @@ For the spending summary, the spending ranges for the average math and reading s
 
 ### School Type Summary
 ![School Type Summary](Images/IMG05_SchoolTypeSummaryDF.png)
+
+Examine the last summary on school types, the data change had an impact on the passing percentages that compared charter and district schools. Luckily the average scores for the two school types was not impacted. Removing the 9th grade scores led to a decline in the charter school's passing percentages. Where before the change the percentages were: 94% passing math, 97% passing reading, 90% overall passing, and after the change they became: 90% passing math, 93% passing reading, 87% overall passing, on the bright side these are still high compared to district schools.

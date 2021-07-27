@@ -27,3 +27,6 @@ For the 15 high schools in the district when assessing the average scores and pa
 
 ### Top Five Performing Schools
 ![Top Five Performing Schools](Images/IMG08_TopFiveSchools.png)
+
+### Bottom Five Performing Schools
+![Bottom Five Performing Schools](Images/IMG09_BottomFiveSchools.png)

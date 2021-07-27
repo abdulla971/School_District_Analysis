@@ -9,3 +9,4 @@ To interpret the Py City School district student data.
 * This analysis assists the school board and district level in making desicions of budgets and priorities.
 
 ## Process of the Project
+* Read raw data in csv file.

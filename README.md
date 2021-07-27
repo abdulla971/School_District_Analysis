@@ -11,3 +11,4 @@ To interpret the Py City School district student data.
 ## Process of the Project
 * Read raw data in csv file.
 * Clean and inspect data, correct inappropriate data.
+* Merge datasets to create new DataFrame gathering more information.

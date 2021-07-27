@@ -21,3 +21,6 @@ To interpret the Py City School district student data.
 ![School District Summary](Images/IMG01_DistrictSummaryDF.png)
 
 For the 15 high schools in the district when assessing the average scores and passing percentages, the average math score was lowered by 0.1, the average reading score remained the same, the percentage passing for math was reduced by 1%, same with the percentage passing reading which declined by 1%, the overall passing percent reduced by 1%.
+
+### School Summary
+![School Summary](Images/IMG02_PerSchoolSummaryDF.png)

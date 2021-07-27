@@ -17,10 +17,12 @@ To interpret the Py City School district student data.
 * Perform calculations  for key metrics use groupby() function.
 * Visualize data with tables to tell story and showcase trends.
 
+
 ### School District Summary
 ![School District Summary](Images/IMG01_DistrictSummaryDF.png)
 
 For the 15 high schools in the district when assessing the average scores and passing percentages, the average math score was lowered by 0.1, the average reading score remained the same, the percentage passing for math was reduced by 1%, same with the percentage passing reading which declined by 1%, the overall passing percent reduced by 1%.
+
 
 ### School Summary
 ![School Summary](Images/IMG02_PerSchoolSummaryDF.png)
@@ -31,9 +33,9 @@ For the 15 high schools in the district when assessing the average scores and pa
 ### Bottom Five Performing Schools
 ![Bottom Five Performing Schools](Images/IMG09_BottomFiveSchools.png)
 
-For the school size summary, taking out the 9th grade scores did not impact the average math and reading scores, however it impacted the passing percentages especially for the medium-sized schools (1,000-2,000). Where the % passing math, % passing reading, and % overall passing dropped 6% each. The performance for the medium-sized schools was perceived to be high before the change with 91% overall passing, after the change it became 85% which lowered its rank from first to second.
 
 The ranking of the top five high schools was impacted by the score replacements when assessing school summaries and performing schools, we see that Thomas High School was ranked second in the top five performing with a 91% overall passing. Yet, after the score replacements its overall passing became 65% which got it removed out of top five. On the bright side, Thomas High School did not go down to the bottom five schools (those remained the same). With the revised school summary, Thomas High School ranks 8th among the 15 high schools in the district.
+
 
 ### Average Math Scores by Grade & School
 ![Average Math Scores by Grade & School](Images/IMG06_AvgMathScores_byGrade-School.png)
@@ -43,15 +45,22 @@ The ranking of the top five high schools was impacted by the score replacements 
 
 For this data replacement the math and reading scores did not change which is something positive. From the tables above we see that for 9th grade at Thomas High School the table shows “NaN” where on the other side the remaining data was unchanged.
 
+
 ### School Spending Summary
 ![School Spending Summary](Images/IMG03_SchoolSpendingSummaryDF.png)
 
+
 For the spending summary, the spending ranges for the average math and reading scores were unchanged with the data change. However, with the data change, the passing percentages spending range was changed. As shown in the table, there is a decline of 6% in the percentage passing math, a 7% in the percentage passing reading, and a decline by 6% in the overall passing in the $630-644 spending range.
+
 
 ### School Size Summary
 ![School Size Summary](Images/IMG04_SchoolSizeSummaryDF.png)
+
+For the school size summary, taking out the 9th grade scores did not impact the average math and reading scores, however it impacted the passing percentages especially for the medium-sized schools (1,000-2,000). Where the % passing math, % passing reading, and % overall passing dropped 6% each. The performance for the medium-sized schools was perceived to be high before the change with 91% overall passing, after the change it became 85% which lowered its rank from first to second.
+
 
 ### School Type Summary
 ![School Type Summary](Images/IMG05_SchoolTypeSummaryDF.png)
 
 Examine the last summary on school types, the data change had an impact on the passing percentages that compared charter and district schools. Luckily the average scores for the two school types was not impacted. Removing the 9th grade scores led to a decline in the charter school's passing percentages. Where before the change the percentages were: 94% passing math, 97% passing reading, 90% overall passing, and after the change they became: 90% passing math, 93% passing reading, 87% overall passing, on the bright side these are still high compared to district schools.
+

@@ -40,3 +40,6 @@ The ranking of the top five high schools was impacted by the score replacements 
 ![Average Reading Scores by Grade & School](Images/IMG07_AvgReadingScores_byGrade-School.png)
 
 For this data replacement the math and reading scores did not change which is something positive. From the tables above we see that for 9th grade at Thomas High School the table shows “NaN” where on the other side the remaining data was unchanged.
+
+### School Spending Summary
+![School Spending Summary](Images/IMG03_SchoolSpendingSummaryDF.png)

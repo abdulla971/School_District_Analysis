@@ -12,3 +12,4 @@ To interpret the Py City School district student data.
 * Read raw data in csv file.
 * Clean and inspect data, correct inappropriate data.
 * Merge datasets to create new DataFrame gathering more information.
+* Perform calculations  for key metrics use groupby() function.

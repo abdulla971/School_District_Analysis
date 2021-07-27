@@ -13,3 +13,4 @@ To interpret the Py City School district student data.
 * Clean and inspect data, correct inappropriate data.
 * Merge datasets to create new DataFrame gathering more information.
 * Perform calculations  for key metrics use groupby() function.
+* Visualize data with tables to tell story and showcase trends.
